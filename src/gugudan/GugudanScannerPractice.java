@@ -12,7 +12,7 @@ public static void main(String[] args) {
         System.out.println(number * i);
         }
         
-        
+        //팔팔단, 십구십구단
         }      
 }
 
