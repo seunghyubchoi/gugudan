@@ -2,6 +2,7 @@ package gugudan;
 
 public class Gugudan {
 	public static void main(String[] args) {
+		System.out.println("Hello World!");
 		
 			int[] result = new int[9];
 				for(int j = 2; j < 10; j++) {
